@@ -1,10 +1,10 @@
-# bloomparade
+> ANOTHER COLOUR - (Jam170526) 
+> D Standard (I tune my high E to C for droning, in case that matters)
+> Key is A# I think? whole thing so far basically floats between A# > D
 
-[Fretflip](https://fretflip.com/024S2T32Z)
+[Another Colour](https://samply.app/p/UChCX9CzCRc4z9datsiE?si=C1i1o3YSijaPNaEC8P06vgAgItg1)
 
-## Lap Steel tuning 
-
-### C6th Root C3
+D Natural Minor / Aeolian - D, F, A, C, E, G, A #
 
 | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8  | 9  | 10 | 11 | 12 |
 |----|----|----|----|----|----|----|---|----|----|----|----|----|
@@ -15,11 +15,7 @@
 | E3 | F  | F# | G  | G# | A  | A# | B | C  | C# | D  | D# | E  |
 | C3 | C# | D  | D# | E  | F  | F# | G | G# | A  | A# | B  | C  |
 
-[Guitar Tunings Database](https://gtdb.org/cegace)
-
-### A few handy landmarks:
-Open = C6 / Am7 (C E G A C E)
-Fret 2 = Dm7 (D F A C)
-Fret 5 = Fmaj7 (F A C E) — just slide from fret 2
-Fret 7 = Gmaj (G B D) / Bm7 colour (B D F# A)
-Fret 12 = Octave repeat of open
+### Key Positions
+Dm7 — bar at fret 2 (gives D F A C)
+Fmaj7 — bar at fret 5 (gives F A C E)
+Am7 — open (A C E G on strings 4–1)
