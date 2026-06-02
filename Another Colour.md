@@ -16,6 +16,6 @@ D Natural Minor / Aeolian - D, F, A, C, E, G, A #
 | C3 | C# | D  | D# | E  | F  | F# | G | G# | A  | A# | B  | C  |
 
 ### Key Positions
-Dm7 — bar at fret 2 (gives D F A C)
-Fmaj7 — bar at fret 5 (gives F A C E)
+Dm7 — bar at fret 2 (gives D F A C) \
+Fmaj7 — bar at fret 5 (gives F A C E) \
 Am7 — open (A C E G on strings 4–1)
