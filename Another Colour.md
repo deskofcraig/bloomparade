@@ -14,6 +14,8 @@ D Natural Minor / Aeolian - D, F, A, C, E, G, A #
 | G3 |    | A  | A# |    | C  |    | D |    | E  | F  |    | G  |
 | E3 | F  |    | G  |    | A  | A# |   | C  |    | D  |    | E  |
 | C3 |    | D  |    | E  | F  |    | G |    | A  | A# |    | C  |
+|----|----|----|----|----|----|----|---|----|----|----|----|----|
+| 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8  | 9  | 10 | 11 | 12 |
 
 ### Key Positions
 Dm7 — bar at fret 2 (gives D F A C) \
