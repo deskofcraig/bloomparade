@@ -8,12 +8,12 @@ D Natural Minor / Aeolian - D, F, A, C, E, G, A #
 
 | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8  | 9  | 10 | 11 | 12 |
 |----|----|----|----|----|----|----|---|----|----|----|----|----|
-| E4 | F  | F# | G  | G# | A  | A# | B | C  | C# | D  | D# | E  |
-| C4 | C# | D  | D# | E  | F  | F# | G | G# | A  | A# | B  | C  |
-| A3 | A# | B  | C  | C# | D  | D# | E | F  | F# | G  | G# | A  |
-| G3 | G# | A  | A# | B  | C  | C# | D | D# | E  | F  | F# | G  |
-| E3 | F  | F# | G  | G# | A  | A# | B | C  | C# | D  | D# | E  |
-| C3 | C# | D  | D# | E  | F  | F# | G | G# | A  | A# | B  | C  |
+| E4 | F  |    | G  |    | A  | A# |   | C  |    | D  |    | E  |
+| C4 |    | D  |    | E  | F  |    | G |    | A  | A# |    | C  |
+| A3 | A# |    | C  |    | D  |    | E | F  |    | G  |    | A  |
+| G3 |    | A  | A# |    | C  |    | D |    | E  | F  |    | G  |
+| E3 | F  |    | G  |    | A  | A# |   | C  |    | D  |    | E  |
+| C3 |    | D  |    | E  | F  |    | G |    | A  | A# |    | C  |
 
 ### Key Positions
 Dm7 — bar at fret 2 (gives D F A C) \
