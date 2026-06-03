@@ -18,6 +18,19 @@
 
 [Guitar Tunings Database](https://gtdb.org/cegace)
 
+## Tab notes
+### Fretting
+`/` slide up to \
+`\` slide down to
+### Volume pedal
+`O` full volume \
+`-` partial volume \
+`_` closed \
+`/` full volume sweep open \
+`\` full volume sweep close \
+`>` lower volume to partial \
+`<` raise volume to full 
+
 ### A few handy landmarks:
 Open = C6 / Am7 (C E G A C E)
 Fret 2 = Dm7 (D F A C)
