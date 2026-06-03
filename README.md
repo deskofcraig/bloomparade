@@ -14,7 +14,6 @@
 | G3 | G# | A  | A# | B  | C  | C# | D | D# | E  | F  | F# | G  |
 | E3 | F  | F# | G  | G# | A  | A# | B | C  | C# | D  | D# | E  |
 | C3 | C# | D  | D# | E  | F  | F# | G | G# | A  | A# | B  | C  |
-|----|----|----|----|----|----|----|---|----|----|----|----|----|
 | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8  | 9  | 10 | 11 | 12 |
 
 [Guitar Tunings Database](https://gtdb.org/cegace)
