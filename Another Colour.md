@@ -1,6 +1,9 @@
+# Another Colour
+
 > ANOTHER COLOUR - (Jam170526) 
 > D Standard (I tune my high E to C for droning, in case that matters)
 > Key is A# I think? whole thing so far basically floats between A# > D
+> Fmaj > A# > A > D
 
 [Another Colour](https://samply.app/p/UChCX9CzCRc4z9datsiE?si=C1i1o3YSijaPNaEC8P06vgAgItg1)
 
