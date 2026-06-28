@@ -11,6 +11,18 @@
 > The ‘Chorus’ (Well I don’t want your pity….) 
 > Is f# minor, A Maj, then back to the E > A > E rhythm
 
+
+|   | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8  | 9  | 10 | 11 | 12 |
+|---|----|----|----|----|----|----|----|---|----|----|----|----|----|
+| 1 | E4 |    | F# |    | G# | A  |    | B |    | C# |    | D# | E  |
+| 2 |    | C# |    | D# | E  |    | F# |   | G# | A  |    | B  |    |
+| 3 | A3 |    | B  |    | C# |    | D# | E |    | F# |    | G# | A  |
+| 4 |    | G# | A  |    | B  |    | C# |   | D# | E  |    | F# |    |
+| 5 | E3 |    | F# |    | G# | A  |    | B |    | C# |    | D# | E  |
+| 6 |    | C# |    | D# | E  |    | F# |   | G# | A  |    | B  |    |
+|   | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8  | 9  | 10 | 11 | 12 |
+
+
 Key
 E major = C# natural minor
 Krumhansl r = 0.662
@@ -81,12 +93,3 @@ C6 tuning highlight: This track is genuinely well-suited to C6 because your open
 
 Watch for the Dmaj9/Dm9 sections around 1:36 and 2:40 — D natural appears there, which sits outside E major. On C6 that's fret 2 on strings 1 and 5, but be aware those moments call for a slightly different melodic approach (lean on D, F#, A rather than the usual E major palette).
 
-|   | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8  | 9  | 10 | 11 | 12 |
-|---|----|----|----|----|----|----|----|---|----|----|----|----|----|
-| 1 | E4 | F  | F# | G  | G# | A  | A# | B | C  | C# | D  | D# | E  |
-| 2 | C4 | C# | D  | D# | E  | F  | F# | G | G# | A  | A# | B  | C  |
-| 3 | A3 | A# | B  | C  | C# | D  | D# | E | F  | F# | G  | G# | A  |
-| 4 | G3 | G# | A  | A# | B  | C  | C# | D | D# | E  | F  | F# | G  |
-| 5 | E3 | F  | F# | G  | G# | A  | A# | B | C  | C# | D  | D# | E  |
-| 6 | C3 | C# | D  | D# | E  | F  | F# | G | G# | A  | A# | B  | C  |
-|   | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8  | 9  | 10 | 11 | 12 |
