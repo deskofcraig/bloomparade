@@ -7,6 +7,17 @@
 > Aside from the bridge the chords are all E major, A flat major, A major - then loop. 
 > Bridge is B major, G#susb6, A major, played twice
 
+
+|   | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8  | 9  | 10 | 11 | 12 |
+|---|----|----|----|----|----|----|----|---|----|----|----|----|----|
+| 1 | E3 |    | F# |    | G# | A  |    | B |    | C# |    | D# | E  |
+| 2 |    | C# |    | D# | E  |    | F# |   | G# | A  |    | B  |    |
+| 3 | A3 |    | B  |    | C# |    | D# | E |    | F# |    | G# | A  |
+| 4 |    | G# | A  |    | B  |    | C# |   | D# | E  |    | F# |    |
+| 5 | E3 |    | F# |    | G# | A  |    | B |    | C# |    | D# | E  |
+| 6 |    | C# |    | D# | E  |    | F# |   | G# | A  |    | B  |    |
+|   | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7 | 8  | 9  | 10 | 11 | 12 |
+
 # When You Talk About Love — Musical Analysis
 
 **File:** When_You_Talk_About_Love_Mp3.mp3  
